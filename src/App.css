@@ -54,3 +54,15 @@
   color: #c0ffd5;
   width: 100%;
 }
+
+.overlay-text,
+.btn {
+  font-size: 0.7rem;
+}
+
+.btn {
+  margin-top: 10px;
+  background-color: #8466e6;
+  border: none;
+  color: white;
+}
